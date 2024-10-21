@@ -15,7 +15,6 @@ import androidx.compose.ui.platform.LocalContext
  * New theme files added.
  */
 private val lightScheme = lightColorScheme(
-    primary = primaryLight,
     onPrimary = onPrimaryLight,
     primaryContainer = primaryContainerLight,
     onPrimaryContainer = onPrimaryContainerLight,
